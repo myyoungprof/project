@@ -1,0 +1,103 @@
+div{
+   font-weight: bolder;
+   font-size: xx-large;
+}
+
+button{
+      border: 20px;
+      margin: 50px;
+      padding: 50px;
+   }
+
+#me{
+   background-color: indigo;
+   width: 150px;
+   height: 2px;
+}
+
+#a{
+   width: 200px;
+   height: 200px;
+   background: #254;
+}
+#b{
+   background-color: rgba(124, 104, 238, 0.466);
+   width: 200px;
+   height: 200p
+}
+
+#c{
+   background-color: aqua;
+   width: 200px;
+   height: 200px;
+}
+
+#d{
+   background-color: rgba(100, 175, 237, 0.466);
+   width: 200px;
+   height: 200px;
+}
+#e{
+   background-color: rgba(127, 255, 212, 0.63);
+   width: 200px;
+   height: 200p
+}
+#f{
+   background-color: antiquewhite;
+   width: 200px;
+   height: 200p
+}
+#g{
+   background-color: rgba(240, 230, 140, 0.548);
+   width: 200px;
+   height: 200p
+}
+#h{
+   background-color: darksalmon;
+   width: 200px;
+   height: 200p
+}
+
+#you{
+     position: relative;
+     left: 10px;
+     bottom: 37px;
+     color: white;
+}
+
+#he{
+   position: relative;
+   right: 60px;
+   color: white;
+}
+
+nav{
+   position: relative;
+   left: 50px;
+   top: 60px;
+}
+
+input{
+     width: 800px;
+     height: 70px;
+}
+
+body{
+   height: 100vh;
+   width: 500%;
+  display: flex;
+  align-items: center;
+  background-image: url(/Images/temitech.jpg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+main{
+  width: 1500px;
+  padding: 50px;
+  padding-right: 35px;
+  padding-left: 3px;
+  border-radius: 29px;
+  background-color: white;
+
+}
