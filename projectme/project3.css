@@ -1,0 +1,149 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+body{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #DFE2FF;
+    font-family: "Fredoka", sans-serif;
+    background-image: url(/Images/ants\ 1.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+main{
+    width: 700px;
+    background: #FFFFFF;
+}
+.split{
+     display: flex;
+     margin: auto;
+     justify-content: center
+}
+
+.right{
+      width: 50%;
+      background-color: black;
+      font-family: "Fredoka", sans-serif;
+}
+
+.left{
+    width: 50%;
+    margin: auto;
+      font-family: "Fredoka", sans-serif;
+}
+#one, #two, #three, #four, #five, #six{
+                                    padding: 30px;
+}
+
+span{
+    display: inline;
+
+}
+hr{
+    position: relative;
+    top: 20px;
+    color: darkgray;
+
+}
+#rice, #goat{
+    width: 100px;
+    position: relative;
+    top: 20px;
+    color: darkgray;
+    opacity: 3px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 25px;
+    right: 55px;
+    color: #00ffffc0;
+    font-style: italic;
+    font-size: x-large;
+}
+
+#you{
+    font-size: large;
+    color: aqua;
+}
+span{
+    font-size: xx-small;
+    color: aqua;
+}
+#one{
+    position: relative;
+    left: 20px;
+    top: 50px;
+    color: darkgray;
+    font-size: medium;
+    font-weight: 200;
+
+}
+
+#two{
+    position: relative;
+    left: 20px;
+    top: 30px;
+    color: darkgray;
+}
+#three{
+    position: relative;
+    left: 20px;
+    top: 30px ;
+    color: rgba(169, 169, 169, 0.288);
+}
+
+#four{
+    position: relative;
+    left: 50px;
+    top: 20px;
+    color: darkgray;
+
+}
+#five{
+     position: relative;
+     left: 200px;
+     bottom : 16px;
+     color: darkgray;
+}
+
+#six{
+     position: relative;
+     left: 20px;
+     bottom: 10px;
+     color: darkgray;
+}
+
+img{
+    width: 230px;
+    position: relative;
+    left: 50px;
+    box-shadow: 100px;
+    
+}
+
+#me{
+    display: flex;
+    justify-content: center;
+    color: darkgray;
+
+}
+
+.circle{
+      display: flex;
+      justify-content: center;
+      position: relative;
+      left: 250px;
+      border: solid aqua;
+      border-radius: 50%;
+      width: 70px;
+    
+}
